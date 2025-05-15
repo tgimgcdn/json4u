@@ -1,5 +1,5 @@
-export const runtime = 'edge';
 "use server";
+export const runtime = 'edge';
 
 import { env } from "@/lib/env";
 import { SubscriptionType, WebhookRequest, type TWebhookRequest } from "@/lib/shop/types";
