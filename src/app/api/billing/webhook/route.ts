@@ -1,4 +1,3 @@
-"use server";
 export const runtime = 'edge';
 
 import { env } from "@/lib/env";
